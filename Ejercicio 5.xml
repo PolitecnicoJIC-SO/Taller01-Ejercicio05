@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE listaCompras SYSTEM "Ejercicio 5.dtd">
+
+<listaCompras>
+
+    <venta>
+        <ventaCredito>
+            <fechaFinPago>01-07-2022</fechaFinPago>
+            <cantidad>1500000</cantidad>
+        </ventaCredito>
+    </venta>
+
+    <venta>
+        <ventaCredito>
+            <cantidad>4000</cantidad>
+        </ventaCredito>
+    </venta>
+
+    <venta>
+        <ventaInmediata>
+            <cantidad>50</cantidad>
+            <divisa>Dolares</divisa>
+        </ventaInmediata>
+    </venta>
+
+</listaCompras>
